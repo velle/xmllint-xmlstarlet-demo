@@ -32,9 +32,9 @@ Mac OS X (Yosemite) installed by default<br/>
 Project includes below sample xml file<br/>
 [books.xml](data/books.xml)<br/>
 
-### Make xmllint-demo.sh executable and run the script
-    ./xmllint.sh data/books.xml
+### To run xmllint demo script:
+    ./xmllint-demo.sh data/books.xml
 
 
-### Make xmlstarlet-demo.sh executable and run the script
-    ./xmlstarlet.sh data/books.xml
+### To run xmlsartlet demo script:
+    ./xmlstarlet-demo.sh data/books.xml
